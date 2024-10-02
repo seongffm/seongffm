@@ -20,11 +20,11 @@
 </div>
 
 <h3>저를 더 알고싶다면</h3>
-<a href="https://velog.io/@987412563">
-    <img src="http://img.shields.io/badge/Tech Blog-00D182?style=flat&logo=Emby&logoColor=white&link=https://velog.io/@987412563"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<a href="https://blog.naver.com/jvcki7/223444193581">
+    <img src="http://img.shields.io/badge/Tech Blog-00D182?style=flat&logo=Emby&logoColor=white&link=https://blog.naver.com/jvcki7/223444193581"
+        style="height: auto; margin-left: 10px; margin-right: 10px;" />
 </a>
-<a href="https://i987412563i@gmail.com">
+<a href="https:/bom5928@gmail.com">
     <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://i987412563i@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
