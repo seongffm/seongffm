@@ -1,6 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=SeongHun%20Kim&fontSize=90)
 
-[이력서]((https://github.com/seongffm/resume/blob/main/%EA%B9%80%EC%84%B1%ED%9B%88%20%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf))
+# 이력서 링크
+
+[이력서 PDF 보기](https://github.com/seongffm/resume/blob/main/%EA%B9%80%EC%84%B1%ED%9B%88%20%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf)
+
+[간단한 이력서 링크](https://github.com/seongffm/resume)
+
 
 ---
 ## ✨ Tech Stack ✨ 
