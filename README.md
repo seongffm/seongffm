@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=KimSeongHun%20Kim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=SeongHun%20Kim&fontSize=90)
 
 ## ✨ Tech Stack ✨ 
 <table>
@@ -75,7 +75,7 @@
 
 
 
-**yeon820/yeon820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**seongffm/seongffm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
