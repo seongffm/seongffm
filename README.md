@@ -147,7 +147,6 @@ Here are some ideas to get you started:
 
 [스마트홈 프로젝트 리포지토리 링크](https://github.com/2024-SMHRD-IS-IOT-3/GodRepo)
 
-[![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE) 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/flask-2.0.0-brightgreen)](https://flask.palletsprojects.com/)
 
