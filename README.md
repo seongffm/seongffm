@@ -68,9 +68,6 @@
 
 ## 🔭 All about my GitHub
 <a href="https://github.com/seongffm">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=seongffm" style="border:none;" />
-</a>
-<a href="https://github.com/seongffm">
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeon820&layout=compact&langs_count=8&card_width=320" style="border:none;" />
 </a>
 
