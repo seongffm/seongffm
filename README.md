@@ -112,7 +112,7 @@ Here are some ideas to get you started:
 
 ## 개발 기간
 - **2024년 6월 24일 ~ 2024년 8월 21일 (9주)**
-- 
+
 ## 담당 역할
 - **Back-End** 개발
 - **DB** 설계 및 관리
