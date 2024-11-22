@@ -24,7 +24,7 @@
             <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
         </td>
     </tr>
-  <tr>
+    <tr>
         <td>프레임워크</td>
         <td>
             <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
@@ -32,11 +32,13 @@
             <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/>
             <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/>
             <img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=Android&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
         </td>
     </tr>
     <tr>
         <td>라이브러리</td>
         <td>
+            <img src="https://img.shields.io/badge/AJAX-0079E1?style=for-the-badge&logo=AJAX&logoColor=white"/>
             <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white"/>
             <img src="https://img.shields.io/badge/React Bootstrap-41E0FD?style=for-the-badge&logo=React Bootstrap&logoColor=white"/>
         </td>
@@ -52,7 +54,7 @@
         <td>데이터베이스</td>
         <td>
             <img src="https://img.shields.io/badge/Oracle 11g-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
-          <img src="https://img.shields.io/badge/MysSQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+            <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
         </td>
     </tr>
     <tr>
@@ -61,10 +63,10 @@
             <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
             <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
             <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>
         </td>
     </tr>
 </table>
+
 
 ## 🔭 All about my GitHub
 <a href="https://github.com/seongffm">
